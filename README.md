@@ -1,7 +1,7 @@
 ee301_finalproject
 <h1>USC Viterbi EE301 - Digital In-Phase/Quadrature Modulation Systems</h1>
 <p>
-Created by:
+Created by: Evan Gabrielson, Rohan Kota, Ibrahim Djebbar
 </br>Created on: 4/25/21
 </p>
 
